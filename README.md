@@ -68,7 +68,7 @@ The project answers 15 core questions related to spending habits, and encouraged
 - **SQL Scripts**: All 20 queries (including 15 essential ones and my own additional queries).
 - **Documentation**: A detailed explanation of the methodology, analysis, and insights derived from the data.
 - **Streamlit App Screenshots**: Visual proof of the app with key visualizations and outputs.
-- **Streamlit App Link**: https://expenses-tracker-app-project.streamlit.app/
+
 
 ## Skills Gained 🎓
 - **Python**: Data manipulation, analysis, and simulation.
